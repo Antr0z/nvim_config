@@ -25,3 +25,4 @@ vim.g.maplocalleader = "\\"
 require("lazy").setup("plugins")
 -- Setup mason
 require("mason").setup()
+
